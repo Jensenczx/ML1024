@@ -1,10 +1,37 @@
-### ML1024
+## ML1024
 
-###数据采集
-###机器学习模型
-###统计学
-###深度学习
-###算法
-###语言学习
+![](http://7xj8xg.com1.z0.glb.clouddn.com/051f6830150065c0ebab200475b918ce_r.jpg)
 
-####资料
+```
+“These walls are kind of funny like that. First you hate them, then you get used to them.Enough time passed, get so you depend on them. That's institutionalizing.”
+                                     It starts from July 30th.
+```
+
+### ML Framework
+
+### Book
+
+- Programming Collective Intelligence
+
+### Open courses
+
+- ML Standford
+
+### Algorithom
+
+### MATH
+
+### Statistic
+
+### Essay
+
+### Leetcode
+
+
+
+
+
+
+
+
+### 
