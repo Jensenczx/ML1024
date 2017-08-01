@@ -2,67 +2,63 @@
 
 ![](http://upload-images.jianshu.io/upload_images/205938-fec5341ccc054bf1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
->“These walls are kind of funny like that. First you hate them, then you get used to them.Enough time passed, get so you depend on them. That's institutionalizing.”                     It starts from July 30th.
+>“These walls are kind of funny like that. First you hate them, then you get used to them.Enough time passed, get so you depend on them. That's institutionalizing.”                 
 
+#### ML Framework
 
+> Some tools, essays and everything about machine learning frameworks. Such as torch, tensorflow etc.
 
-### ML Framework
+#### Book
 
-### Book
+> Some books about machine learning. There are some notes about books or the way  we can get the book yet.
 
-- Programming Collective Intelligence
+#### Open courses
 
-### Open courses
+>Just like book. 
 
-- ML Standford
+#### Terminology
 
-### Terminology
+>Essay about a terminology of machine learning. The essay can help us to understand the terminology. Such as activation function.
 
 #### Algorithm
 
-- Activation function 
-- Decision Tree
-- Naive Bayesian classification
-- Ordinary Least Squares  Regression
-- Logistic Regression
-- Support Vector Machine
-- Ensemble Methods
+>Some essays about an algorithm. Such as sort , search, etc.
 
-- Clustering Algorithm 
-- Principal Component Analysis 
-- Singular Value Decomposition 
-- Independent Component Analysis
+#### Math
 
-#### MATH
+> Some essays about math. Such as probability， linear algebra.
 
 #### Statistic
 
-### Essay
+>Some essays about statistic. 
 
-- **[The 10 Algorithms Machine Learning Engineers Need to Know](http://www.infoq.com/cn/articles/10-algorithms-machine-learning-engineers-need-to-know?utm_source=articles_about_AI&utm_medium=link&utm_campaign=AI)**
+#### Essay
 
-将机器学习分为监督学习，非监督学习，强化学习，然后介绍了监督学习，非监督学习中常用的算法，共10类同时针对每一种算法又都对其原理进行了简单地介绍。
+>Some essays about above everything. 
 
-- [通俗理解激活函数作用的另一种解释](https://zhuanlan.zhihu.com/p/27661298)
+#### Paper
 
-其中包含了另一篇文章讲解了激活函数在处理非线性问题中的优势，是常规的对于激活函数的一个认识，本文从特征组合的角度来解释了激活函数在特征组合上的优势。
+> Some paper about machine learning.
 
-- ​
+#### Leetcode
 
+>In this scetion, you can commit an essay about your idea or the implementation  on a problem.
 
-- ​
-- ​
-- ​
+#### Note
 
-### Leetcode
+> Before you commit it , please  give a brief overview about your commit.
+>
+> If you want to take part in this project, please contact with me by email (jensenczx@gmail.com)
 
+#### Contributor
 
-
-
-
-
-
+> [JensenChen](https://github.com/Jensenczx)
 
 
 
-### 
+> **It starts from July 30th.**
+
+
+
+
+
