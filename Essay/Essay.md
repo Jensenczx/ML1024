@@ -13,3 +13,14 @@
 涵盖24种编程语言的机器学习的框架、库以及其他相关资料。[完整资源](https://yq.aliyun.com/articles/43341?spm=5176.100239.blogcont43089.335.ZbmEjs)
 
 包括了通用机器学习框架，自然语言处理，竞赛源码等等。
+
+
+
+- [10大深度学习架构](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650729755&idx=1&sn=a5849c082ed099abf931e004339cef4d&chksm=871b2965b06ca073ca5ed037622a0ddf88c327177786d0d8433d56c78af3d63d3e71995c0940&mpshare=1&scene=1&srcid=0812YvSKXVfnatfxFiblHEnY#rd)
+
+计算机视觉的任务类型和深度学习的架构
+
+AlexNet，VGG Net，GoogleNet ，ResNeXt，RCNN，YOLO，SqueezeNet，SegNet，GAN
+
+
+
