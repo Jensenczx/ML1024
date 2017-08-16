@@ -14,13 +14,21 @@
 
 包括了通用机器学习框架，自然语言处理，竞赛源码等等。
 
-
-
 - [10大深度学习架构](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650729755&idx=1&sn=a5849c082ed099abf931e004339cef4d&chksm=871b2965b06ca073ca5ed037622a0ddf88c327177786d0d8433d56c78af3d63d3e71995c0940&mpshare=1&scene=1&srcid=0812YvSKXVfnatfxFiblHEnY#rd)
 
 计算机视觉的任务类型和深度学习的架构
 
 AlexNet，VGG Net，GoogleNet ，ResNeXt，RCNN，YOLO，SqueezeNet，SegNet，GAN
+
+- [通过文字描述来生成二次元妹子！聊聊conditional GAN与txt2img模型](https://zhuanlan.zhihu.com/p/25542274)
+
+实现的方法1.文字转化为合适的向量2.利用GAN和文字向量生成图片。同时给予了一些优化策略，对于涉及到的技术，文中也给予了一些相应的论文链接。
+
+- [GAN学习指南：从原理入门到制作生成Demo]()
+
+GAN相关的论文和其实现原理，对于GAN的优化，DCGAN，给出一个切割人脸的开源项目库，如何在TF上跑起来一个Demo。
+
+
 
 
 
