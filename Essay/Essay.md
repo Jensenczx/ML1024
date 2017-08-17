@@ -26,7 +26,11 @@ AlexNet，VGG Net，GoogleNet ，ResNeXt，RCNN，YOLO，SqueezeNet，SegNet，G
 
 - [GAN学习指南：从原理入门到制作生成Demo]()
 
-GAN相关的论文和其实现原理，对于GAN的优化，DCGAN，给出一个切割人脸的开源项目库，如何在TF上跑起来一个Demo。
+GAN相关的论文和其实现原理，对于GAN的优化，DCGAN，给出一个切割人脸的开源项目库，如何在TF上跑起来一个Demo
+
+- [如何用深度学习做自然语言处理？这里有份最佳实践清单](https://zhuanlan.zhihu.com/p/28126584)
+
+在拥有一定的深度学习做NLP的基础上，提出一些实践的方法。阅读本文需要对NLP领域有一定的了解。
 
 
 
