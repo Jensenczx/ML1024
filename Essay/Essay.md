@@ -36,6 +36,10 @@ GAN相关的论文和其实现原理，对于GAN的优化，DCGAN，给出一个
 
 什么是迁移学习，迁移学习的价值所在，迁移学习的应用场景。业界对于迁移学习的评价。
 
+- [CNNdroid:在Android上利用GPU加速执行CNN(卷积神经网络)](https://zhuanlan.zhihu.com/p/25259452)
+
+介绍了一个可以借助GPU的Android平台的CNN库，接入只需要SDK即可，而不需要NDK，可以通过相关配置进行模型的训练。
+
 
 
 
